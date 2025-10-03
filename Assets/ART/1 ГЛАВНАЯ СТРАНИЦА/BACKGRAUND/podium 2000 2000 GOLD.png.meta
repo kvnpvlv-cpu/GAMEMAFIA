@@ -1,0 +1,2028 @@
+fileFormatVersion: 2
+guid: ebae1981bb7957841ae47a2e26c0538a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3006094840249445031
+    second: podium 2000 2000 GOLD_0
+  - first:
+      213: 6610614335098006510
+    second: podium 2000 2000 GOLD_1
+  - first:
+      213: -6035991237412608188
+    second: podium 2000 2000 GOLD_2
+  - first:
+      213: 997062246754737029
+    second: podium 2000 2000 GOLD_3
+  - first:
+      213: -4423020272851936991
+    second: podium 2000 2000 GOLD_4
+  - first:
+      213: 1857782271058261789
+    second: podium 2000 2000 GOLD_5
+  - first:
+      213: -2143188757444272190
+    second: podium 2000 2000 GOLD_6
+  - first:
+      213: -5263343810342897486
+    second: podium 2000 2000 GOLD_7
+  - first:
+      213: -4189075358648426127
+    second: podium 2000 2000 GOLD_8
+  - first:
+      213: -5408265113157390469
+    second: podium 2000 2000 GOLD_9
+  - first:
+      213: 6290761477359242194
+    second: podium 2000 2000 GOLD_10
+  - first:
+      213: 7134694168048763644
+    second: podium 2000 2000 GOLD_11
+  - first:
+      213: 8024231014773363119
+    second: podium 2000 2000 GOLD_12
+  - first:
+      213: 3358016531555430007
+    second: podium 2000 2000 GOLD_13
+  - first:
+      213: 342055576796719323
+    second: podium 2000 2000 GOLD_14
+  - first:
+      213: -2693379536825329671
+    second: podium 2000 2000 GOLD_15
+  - first:
+      213: -6410094006222122345
+    second: podium 2000 2000 GOLD_16
+  - first:
+      213: -4479313077024918370
+    second: podium 2000 2000 GOLD_17
+  - first:
+      213: 710405689605376880
+    second: podium 2000 2000 GOLD_18
+  - first:
+      213: 4818220256002924170
+    second: podium 2000 2000 GOLD_19
+  - first:
+      213: -178426268120377148
+    second: podium 2000 2000 GOLD_20
+  - first:
+      213: 3980104348246133174
+    second: podium 2000 2000 GOLD_21
+  - first:
+      213: 2701813686076277813
+    second: podium 2000 2000 GOLD_22
+  - first:
+      213: -9014201917550715146
+    second: podium 2000 2000 GOLD_23
+  - first:
+      213: -4666974144569995098
+    second: podium 2000 2000 GOLD_24
+  - first:
+      213: 7809232440224727433
+    second: podium 2000 2000 GOLD_25
+  - first:
+      213: 4628897219329507120
+    second: podium 2000 2000 GOLD_26
+  - first:
+      213: 8806538244086206749
+    second: podium 2000 2000 GOLD_27
+  - first:
+      213: -3204997072202309621
+    second: podium 2000 2000 GOLD_28
+  - first:
+      213: 716256234347653527
+    second: podium 2000 2000 GOLD_29
+  - first:
+      213: -2608726038609255931
+    second: podium 2000 2000 GOLD_30
+  - first:
+      213: -5659536825174605217
+    second: podium 2000 2000 GOLD_31
+  - first:
+      213: -5298787203060929864
+    second: podium 2000 2000 GOLD_32
+  - first:
+      213: 7097882202733616654
+    second: podium 2000 2000 GOLD_33
+  - first:
+      213: 7140987547353459934
+    second: podium 2000 2000 GOLD_34
+  - first:
+      213: 1702037059304708614
+    second: podium 2000 2000 GOLD_35
+  - first:
+      213: 4937934200045433760
+    second: podium 2000 2000 GOLD_36
+  - first:
+      213: 4378194446871399327
+    second: podium 2000 2000 GOLD_37
+  - first:
+      213: 3200378896216266702
+    second: podium 2000 2000 GOLD_38
+  - first:
+      213: 3602143482457707536
+    second: podium 2000 2000 GOLD_39
+  - first:
+      213: -1119861133396708434
+    second: podium 2000 2000 GOLD_40
+  - first:
+      213: 4101202968119967344
+    second: podium 2000 2000 GOLD_41
+  - first:
+      213: -1816759129522444566
+    second: podium 2000 2000 GOLD_42
+  - first:
+      213: -6164422544141037864
+    second: podium 2000 2000 GOLD_43
+  - first:
+      213: -7014641746995884073
+    second: podium 2000 2000 GOLD_44
+  - first:
+      213: 6222125187305555794
+    second: podium 2000 2000 GOLD_45
+  - first:
+      213: 1177407216165753258
+    second: podium 2000 2000 GOLD_46
+  - first:
+      213: -2576501200665353429
+    second: podium 2000 2000 GOLD_47
+  - first:
+      213: 8224106510507065210
+    second: podium 2000 2000 GOLD_48
+  - first:
+      213: 5248676159384351686
+    second: podium 2000 2000 GOLD_49
+  - first:
+      213: 2973836537077099317
+    second: podium 2000 2000 GOLD_50
+  - first:
+      213: -1256162718337433731
+    second: podium 2000 2000 GOLD_51
+  - first:
+      213: 6570440457784688591
+    second: podium 2000 2000 GOLD_52
+  - first:
+      213: -1421875681569610665
+    second: podium 2000 2000 GOLD_53
+  - first:
+      213: 1594179102408326640
+    second: podium 2000 2000 GOLD_54
+  - first:
+      213: 1977512138051843662
+    second: podium 2000 2000 GOLD_55
+  - first:
+      213: -8328460686929033936
+    second: podium 2000 2000 GOLD_56
+  - first:
+      213: -5571884422316530541
+    second: podium 2000 2000 GOLD_57
+  - first:
+      213: -3088537760631682670
+    second: podium 2000 2000 GOLD_58
+  - first:
+      213: 2403608750050616151
+    second: podium 2000 2000 GOLD_59
+  - first:
+      213: -6183155398440575272
+    second: podium 2000 2000 GOLD_60
+  - first:
+      213: 1611619079718785349
+    second: podium 2000 2000 GOLD_61
+  - first:
+      213: 3528989115235049839
+    second: podium 2000 2000 GOLD_62
+  - first:
+      213: 1395131777859756481
+    second: podium 2000 2000 GOLD_63
+  - first:
+      213: -7950679602831194147
+    second: podium 2000 2000 GOLD_64
+  - first:
+      213: -7514656378001745450
+    second: podium 2000 2000 GOLD_65
+  - first:
+      213: -1811102389147785002
+    second: podium 2000 2000 GOLD_66
+  - first:
+      213: 665764692360421559
+    second: podium 2000 2000 GOLD_67
+  - first:
+      213: 8715023422548009486
+    second: podium 2000 2000 GOLD_68
+  - first:
+      213: 4344830607082164060
+    second: podium 2000 2000 GOLD_69
+  - first:
+      213: 6002100324907989657
+    second: podium 2000 2000 GOLD_70
+  - first:
+      213: 1511392223800833060
+    second: podium 2000 2000 GOLD_71
+  - first:
+      213: 3035852330575966767
+    second: podium 2000 2000 GOLD_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1228
+        width: 1162
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aae33a845bc7b920800000000000000
+      internalID: 3006094840249445031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_1
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1710
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb2f9696be9dbb50800000000000000
+      internalID: 6610614335098006510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_2
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1749
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447a6aa13f9db3ca0800000000000000
+      internalID: -6035991237412608188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_3
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1728
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bd4cca4d646dd00800000000000000
+      internalID: 997062246754737029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_4
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1721
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1291f4afe764e92c0800000000000000
+      internalID: -4423020272851936991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_5
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1230
+        width: 153
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d173270f12b28c910800000000000000
+      internalID: 1857782271058261789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_6
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1703
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf5ce12e2dd142e0800000000000000
+      internalID: -2143188757444272190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_7
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1766
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8b2cdd0b8d4f6b0800000000000000
+      internalID: -5263343810342897486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_8
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1749
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1712b6ee72a6dd5c0800000000000000
+      internalID: -4189075358648426127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_9
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1731
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fad17a88bf1f4b0800000000000000
+      internalID: -5408265113157390469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_10
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1741
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db85b8db364d4750800000000000000
+      internalID: 6290761477359242194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_11
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1802
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2099b6b86830360800000000000000
+      internalID: 7134694168048763644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_12
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1310
+        width: 59
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa11d3ff79bcb5f60800000000000000
+      internalID: 8024231014773363119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_13
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1758
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e20417e321a9e20800000000000000
+      internalID: 3358016531555430007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_14
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1748
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8e86c1cb93fb400800000000000000
+      internalID: 342055576796719323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_15
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1672
+        width: 10
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f75836d4913f9ad0800000000000000
+      internalID: -2693379536825329671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_16
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1700
+        width: 53
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7921546a675ca07a0800000000000000
+      internalID: -6410094006222122345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_17
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1771
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94fa262d7846d1c0800000000000000
+      internalID: -4479313077024918370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_18
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1761
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b4857f53edbd900800000000000000
+      internalID: 710405689605376880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_19
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1750
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e55a87bc1cdd240800000000000000
+      internalID: 4818220256002924170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_20
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1240
+        width: 446
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c81616214a168df0800000000000000
+      internalID: -178426268120377148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_21
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1594
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9c23631db2c3730800000000000000
+      internalID: 3980104348246133174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_22
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1634
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5348ddf8b35ce7520800000000000000
+      internalID: 2701813686076277813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_23
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1677
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe9eb28d1f17e280800000000000000
+      internalID: -9014201917550715146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_24
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1667
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a019f00eb39b3fb0800000000000000
+      internalID: -4666974144569995098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_25
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1659
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9814d008787ff5c60800000000000000
+      internalID: 7809232440224727433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_26
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1647
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fbdebfe752d3040800000000000000
+      internalID: 4628897219329507120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_27
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1576
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1196abbfdb173a70800000000000000
+      internalID: 8806538244086206749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_28
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1586
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00e635c4209583d0800000000000000
+      internalID: -3204997072202309621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_29
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1635
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79963701047a0f900800000000000000
+      internalID: 716256234347653527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_30
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1624
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50222605d71fbcbd0800000000000000
+      internalID: -2608726038609255931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_31
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1607
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52c9363e394571b0800000000000000
+      internalID: -5659536825174605217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_32
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1576
+        width: 48
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8baea2dec1de676b0800000000000000
+      internalID: -5298787203060929864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_33
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1597
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e1187d14eb08260800000000000000
+      internalID: 7097882202733616654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_34
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1586
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcad79f652e91360800000000000000
+      internalID: 7140987547353459934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_35
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1555
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a586a00b9de9710800000000000000
+      internalID: 1702037059304708614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_36
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1565
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3f5fd1ef0178440800000000000000
+      internalID: 4937934200045433760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_37
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1552
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b8b5b17a872cc30800000000000000
+      internalID: 4378194446871399327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_38
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1507
+        width: 10
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec790a756a70a6c20800000000000000
+      internalID: 3200378896216266702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_39
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1556
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01451ed89626df130800000000000000
+      internalID: 3602143482457707536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_40
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1546
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea37f128b347570f0800000000000000
+      internalID: -1119861133396708434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_41
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1515
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e7192de566ae830800000000000000
+      internalID: 4101202968119967344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_42
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1515
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6ed52823399c6e0800000000000000
+      internalID: -1816759129522444566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_43
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1238
+        width: 60
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de401b4b52937aa0800000000000000
+      internalID: -6164422544141037864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_44
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1483
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df4fab0f7cf6ae90800000000000000
+      internalID: -7014641746995884073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_45
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1480
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257cb5144ed695650800000000000000
+      internalID: 6222125187305555794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_46
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1454
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa19a8bff9df65010800000000000000
+      internalID: 1177407216165753258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_47
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1437
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2369f21fcd6e3cd0800000000000000
+      internalID: -2576501200665353429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_48
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1450
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f30c15c45e12270800000000000000
+      internalID: 8224106510507065210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_49
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1433
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c37a25882b07d840800000000000000
+      internalID: 5248676159384351686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_50
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1425
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bee8c0390354920800000000000000
+      internalID: 2973836537077099317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_51
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1409
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f7861c9a6319ee0800000000000000
+      internalID: -1256162718337433731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_52
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1393
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf7c10e8c4ee2b50800000000000000
+      internalID: 6570440457784688591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_53
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1350
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754e64dd99b744ce0800000000000000
+      internalID: -1421875681569610665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_54
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 1289
+        width: 10
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd36638279af1610800000000000000
+      internalID: 1594179102408326640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_55
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1238
+        width: 6
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e467a9fefc8817b10800000000000000
+      internalID: 1977512138051843662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_56
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 494
+        width: 1976
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0350acd912d5b6c80800000000000000
+      internalID: -8328460686929033936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_57
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1227
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3946a4693a0bca2b0800000000000000
+      internalID: -5571884422316530541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_58
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1226
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2990b2e354f4325d0800000000000000
+      internalID: -3088537760631682670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_59
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 673
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753a9cd5c655b5120800000000000000
+      internalID: 2403608750050616151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_60
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 652
+        width: 116
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de19e4cce4013aa0800000000000000
+      internalID: -6183155398440575272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_61
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 641
+        width: 143
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54151e7a30f9d5610800000000000000
+      internalID: 1611619079718785349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_62
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 668
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f612ec527ec79f030800000000000000
+      internalID: 3528989115235049839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_63
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 600
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1a032d5f08c5310800000000000000
+      internalID: 1395131777859756481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_64
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 544
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd78d46960389a190800000000000000
+      internalID: -7950679602831194147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_65
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 548
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9151ca6d396b790800000000000000
+      internalID: -7514656378001745450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_66
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 537
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d82cf209fbadd6e0800000000000000
+      internalID: -1811102389147785002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_67
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 539
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0e328d5754d3900800000000000000
+      internalID: 665764692360421559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_68
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 539
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02ee2ee0abf1f870800000000000000
+      internalID: 8715023422548009486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_69
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 525
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f8060da60fb4c30800000000000000
+      internalID: 4344830607082164060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_70
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 514
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ab56ce17ebb4350800000000000000
+      internalID: 6002100324907989657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_71
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 508
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424bfe7483b89f410800000000000000
+      internalID: 1511392223800833060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: podium 2000 2000 GOLD_72
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 504
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22b58a2c93812a20800000000000000
+      internalID: 3035852330575966767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      podium 2000 2000 GOLD_0: 3006094840249445031
+      podium 2000 2000 GOLD_1: 6610614335098006510
+      podium 2000 2000 GOLD_10: 6290761477359242194
+      podium 2000 2000 GOLD_11: 7134694168048763644
+      podium 2000 2000 GOLD_12: 8024231014773363119
+      podium 2000 2000 GOLD_13: 3358016531555430007
+      podium 2000 2000 GOLD_14: 342055576796719323
+      podium 2000 2000 GOLD_15: -2693379536825329671
+      podium 2000 2000 GOLD_16: -6410094006222122345
+      podium 2000 2000 GOLD_17: -4479313077024918370
+      podium 2000 2000 GOLD_18: 710405689605376880
+      podium 2000 2000 GOLD_19: 4818220256002924170
+      podium 2000 2000 GOLD_2: -6035991237412608188
+      podium 2000 2000 GOLD_20: -178426268120377148
+      podium 2000 2000 GOLD_21: 3980104348246133174
+      podium 2000 2000 GOLD_22: 2701813686076277813
+      podium 2000 2000 GOLD_23: -9014201917550715146
+      podium 2000 2000 GOLD_24: -4666974144569995098
+      podium 2000 2000 GOLD_25: 7809232440224727433
+      podium 2000 2000 GOLD_26: 4628897219329507120
+      podium 2000 2000 GOLD_27: 8806538244086206749
+      podium 2000 2000 GOLD_28: -3204997072202309621
+      podium 2000 2000 GOLD_29: 716256234347653527
+      podium 2000 2000 GOLD_3: 997062246754737029
+      podium 2000 2000 GOLD_30: -2608726038609255931
+      podium 2000 2000 GOLD_31: -5659536825174605217
+      podium 2000 2000 GOLD_32: -5298787203060929864
+      podium 2000 2000 GOLD_33: 7097882202733616654
+      podium 2000 2000 GOLD_34: 7140987547353459934
+      podium 2000 2000 GOLD_35: 1702037059304708614
+      podium 2000 2000 GOLD_36: 4937934200045433760
+      podium 2000 2000 GOLD_37: 4378194446871399327
+      podium 2000 2000 GOLD_38: 3200378896216266702
+      podium 2000 2000 GOLD_39: 3602143482457707536
+      podium 2000 2000 GOLD_4: -4423020272851936991
+      podium 2000 2000 GOLD_40: -1119861133396708434
+      podium 2000 2000 GOLD_41: 4101202968119967344
+      podium 2000 2000 GOLD_42: -1816759129522444566
+      podium 2000 2000 GOLD_43: -6164422544141037864
+      podium 2000 2000 GOLD_44: -7014641746995884073
+      podium 2000 2000 GOLD_45: 6222125187305555794
+      podium 2000 2000 GOLD_46: 1177407216165753258
+      podium 2000 2000 GOLD_47: -2576501200665353429
+      podium 2000 2000 GOLD_48: 8224106510507065210
+      podium 2000 2000 GOLD_49: 5248676159384351686
+      podium 2000 2000 GOLD_5: 1857782271058261789
+      podium 2000 2000 GOLD_50: 2973836537077099317
+      podium 2000 2000 GOLD_51: -1256162718337433731
+      podium 2000 2000 GOLD_52: 6570440457784688591
+      podium 2000 2000 GOLD_53: -1421875681569610665
+      podium 2000 2000 GOLD_54: 1594179102408326640
+      podium 2000 2000 GOLD_55: 1977512138051843662
+      podium 2000 2000 GOLD_56: -8328460686929033936
+      podium 2000 2000 GOLD_57: -5571884422316530541
+      podium 2000 2000 GOLD_58: -3088537760631682670
+      podium 2000 2000 GOLD_59: 2403608750050616151
+      podium 2000 2000 GOLD_6: -2143188757444272190
+      podium 2000 2000 GOLD_60: -6183155398440575272
+      podium 2000 2000 GOLD_61: 1611619079718785349
+      podium 2000 2000 GOLD_62: 3528989115235049839
+      podium 2000 2000 GOLD_63: 1395131777859756481
+      podium 2000 2000 GOLD_64: -7950679602831194147
+      podium 2000 2000 GOLD_65: -7514656378001745450
+      podium 2000 2000 GOLD_66: -1811102389147785002
+      podium 2000 2000 GOLD_67: 665764692360421559
+      podium 2000 2000 GOLD_68: 8715023422548009486
+      podium 2000 2000 GOLD_69: 4344830607082164060
+      podium 2000 2000 GOLD_7: -5263343810342897486
+      podium 2000 2000 GOLD_70: 6002100324907989657
+      podium 2000 2000 GOLD_71: 1511392223800833060
+      podium 2000 2000 GOLD_72: 3035852330575966767
+      podium 2000 2000 GOLD_8: -4189075358648426127
+      podium 2000 2000 GOLD_9: -5408265113157390469
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

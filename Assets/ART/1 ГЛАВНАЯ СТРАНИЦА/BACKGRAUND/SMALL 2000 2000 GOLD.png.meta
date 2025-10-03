@@ -1,0 +1,3406 @@
+fileFormatVersion: 2
+guid: a55298aebfab06d4f816f8a289e5d995
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7836538493583912049
+    second: SMALL 2000 2000 GOLD_0
+  - first:
+      213: -6552889722684093927
+    second: SMALL 2000 2000 GOLD_1
+  - first:
+      213: 7901432323652428841
+    second: SMALL 2000 2000 GOLD_2
+  - first:
+      213: 4411279598747276709
+    second: SMALL 2000 2000 GOLD_3
+  - first:
+      213: -8410443640394705891
+    second: SMALL 2000 2000 GOLD_4
+  - first:
+      213: -6828715249778501500
+    second: SMALL 2000 2000 GOLD_5
+  - first:
+      213: 2189489842340366392
+    second: SMALL 2000 2000 GOLD_6
+  - first:
+      213: -5549735694357729514
+    second: SMALL 2000 2000 GOLD_7
+  - first:
+      213: 7498504510382571571
+    second: SMALL 2000 2000 GOLD_8
+  - first:
+      213: 4539727211672549643
+    second: SMALL 2000 2000 GOLD_9
+  - first:
+      213: -7946075074348360939
+    second: SMALL 2000 2000 GOLD_10
+  - first:
+      213: -3006594034416816364
+    second: SMALL 2000 2000 GOLD_11
+  - first:
+      213: 1320396088172332017
+    second: SMALL 2000 2000 GOLD_12
+  - first:
+      213: 7039867188042866631
+    second: SMALL 2000 2000 GOLD_13
+  - first:
+      213: -308641770021684734
+    second: SMALL 2000 2000 GOLD_14
+  - first:
+      213: 3909688639063440811
+    second: SMALL 2000 2000 GOLD_15
+  - first:
+      213: 3388240435498978429
+    second: SMALL 2000 2000 GOLD_16
+  - first:
+      213: 2693074676392022171
+    second: SMALL 2000 2000 GOLD_17
+  - first:
+      213: 3885084054478479374
+    second: SMALL 2000 2000 GOLD_18
+  - first:
+      213: -4875692060101623064
+    second: SMALL 2000 2000 GOLD_19
+  - first:
+      213: -6014670771401515978
+    second: SMALL 2000 2000 GOLD_20
+  - first:
+      213: -5698926797286892076
+    second: SMALL 2000 2000 GOLD_21
+  - first:
+      213: 2145143049502783162
+    second: SMALL 2000 2000 GOLD_22
+  - first:
+      213: -4564561739368811822
+    second: SMALL 2000 2000 GOLD_23
+  - first:
+      213: -6540457989335285814
+    second: SMALL 2000 2000 GOLD_24
+  - first:
+      213: 9095218506477234927
+    second: SMALL 2000 2000 GOLD_25
+  - first:
+      213: -3988298717223453738
+    second: SMALL 2000 2000 GOLD_26
+  - first:
+      213: -7670222921208180252
+    second: SMALL 2000 2000 GOLD_27
+  - first:
+      213: 6627220325241487110
+    second: SMALL 2000 2000 GOLD_28
+  - first:
+      213: 3480968225661746510
+    second: SMALL 2000 2000 GOLD_29
+  - first:
+      213: -4551591427916555166
+    second: SMALL 2000 2000 GOLD_30
+  - first:
+      213: 6852178439509269759
+    second: SMALL 2000 2000 GOLD_31
+  - first:
+      213: 5130339981525426679
+    second: SMALL 2000 2000 GOLD_32
+  - first:
+      213: -3836066439638979503
+    second: SMALL 2000 2000 GOLD_33
+  - first:
+      213: 45815354024836131
+    second: SMALL 2000 2000 GOLD_34
+  - first:
+      213: 1256756173080195845
+    second: SMALL 2000 2000 GOLD_35
+  - first:
+      213: 6839188983616770670
+    second: SMALL 2000 2000 GOLD_36
+  - first:
+      213: 5387532970688920584
+    second: SMALL 2000 2000 GOLD_37
+  - first:
+      213: 6019543003183912919
+    second: SMALL 2000 2000 GOLD_38
+  - first:
+      213: -4938284692028786531
+    second: SMALL 2000 2000 GOLD_39
+  - first:
+      213: -281970515870641612
+    second: SMALL 2000 2000 GOLD_40
+  - first:
+      213: -6576428151097501249
+    second: SMALL 2000 2000 GOLD_41
+  - first:
+      213: 7398009441901280348
+    second: SMALL 2000 2000 GOLD_42
+  - first:
+      213: 4671272974979293015
+    second: SMALL 2000 2000 GOLD_43
+  - first:
+      213: -76747184929803530
+    second: SMALL 2000 2000 GOLD_44
+  - first:
+      213: 2192903953402575052
+    second: SMALL 2000 2000 GOLD_45
+  - first:
+      213: 3742319130926922249
+    second: SMALL 2000 2000 GOLD_46
+  - first:
+      213: -3942961425438688876
+    second: SMALL 2000 2000 GOLD_47
+  - first:
+      213: 6387203071056658512
+    second: SMALL 2000 2000 GOLD_48
+  - first:
+      213: 7576890624006307040
+    second: SMALL 2000 2000 GOLD_49
+  - first:
+      213: -1515642105822258211
+    second: SMALL 2000 2000 GOLD_50
+  - first:
+      213: 6346874027970609428
+    second: SMALL 2000 2000 GOLD_51
+  - first:
+      213: 9009063992367350095
+    second: SMALL 2000 2000 GOLD_52
+  - first:
+      213: 7009823234658325085
+    second: SMALL 2000 2000 GOLD_53
+  - first:
+      213: -8565318116812414848
+    second: SMALL 2000 2000 GOLD_54
+  - first:
+      213: -7187527217500837592
+    second: SMALL 2000 2000 GOLD_55
+  - first:
+      213: -8643953357927062165
+    second: SMALL 2000 2000 GOLD_56
+  - first:
+      213: 2560372741460900209
+    second: SMALL 2000 2000 GOLD_57
+  - first:
+      213: 4259835218149215419
+    second: SMALL 2000 2000 GOLD_58
+  - first:
+      213: -7655510434869782291
+    second: SMALL 2000 2000 GOLD_59
+  - first:
+      213: -4674692517755651294
+    second: SMALL 2000 2000 GOLD_60
+  - first:
+      213: -2971232825447621509
+    second: SMALL 2000 2000 GOLD_61
+  - first:
+      213: 4275892585337296832
+    second: SMALL 2000 2000 GOLD_62
+  - first:
+      213: 4924544223998227636
+    second: SMALL 2000 2000 GOLD_63
+  - first:
+      213: 4115146698461721168
+    second: SMALL 2000 2000 GOLD_64
+  - first:
+      213: 7422426753972552700
+    second: SMALL 2000 2000 GOLD_65
+  - first:
+      213: 2621677021416282839
+    second: SMALL 2000 2000 GOLD_66
+  - first:
+      213: -6439452737264732901
+    second: SMALL 2000 2000 GOLD_67
+  - first:
+      213: -9027466403340316335
+    second: SMALL 2000 2000 GOLD_68
+  - first:
+      213: -2632824368283427782
+    second: SMALL 2000 2000 GOLD_69
+  - first:
+      213: -5864502247711735474
+    second: SMALL 2000 2000 GOLD_70
+  - first:
+      213: -4250507909009374866
+    second: SMALL 2000 2000 GOLD_71
+  - first:
+      213: 6251387945296339423
+    second: SMALL 2000 2000 GOLD_72
+  - first:
+      213: -6416729409875445033
+    second: SMALL 2000 2000 GOLD_73
+  - first:
+      213: 5554977340737336836
+    second: SMALL 2000 2000 GOLD_74
+  - first:
+      213: -4408311937855340458
+    second: SMALL 2000 2000 GOLD_75
+  - first:
+      213: 164794797091378189
+    second: SMALL 2000 2000 GOLD_76
+  - first:
+      213: 1914168574512743542
+    second: SMALL 2000 2000 GOLD_77
+  - first:
+      213: -186811972792400575
+    second: SMALL 2000 2000 GOLD_78
+  - first:
+      213: 1766551038523721524
+    second: SMALL 2000 2000 GOLD_79
+  - first:
+      213: 355975099765290761
+    second: SMALL 2000 2000 GOLD_80
+  - first:
+      213: 4058310170141131061
+    second: SMALL 2000 2000 GOLD_81
+  - first:
+      213: -7516306698954835419
+    second: SMALL 2000 2000 GOLD_82
+  - first:
+      213: -3258707224772494647
+    second: SMALL 2000 2000 GOLD_83
+  - first:
+      213: 5027216349308358050
+    second: SMALL 2000 2000 GOLD_84
+  - first:
+      213: -8312140199227129412
+    second: SMALL 2000 2000 GOLD_85
+  - first:
+      213: 1807782338434571461
+    second: SMALL 2000 2000 GOLD_86
+  - first:
+      213: 8109332741732283484
+    second: SMALL 2000 2000 GOLD_87
+  - first:
+      213: -5076685149178003284
+    second: SMALL 2000 2000 GOLD_88
+  - first:
+      213: -1523004911660417198
+    second: SMALL 2000 2000 GOLD_89
+  - first:
+      213: -9105030613976352908
+    second: SMALL 2000 2000 GOLD_90
+  - first:
+      213: -7208863159647670303
+    second: SMALL 2000 2000 GOLD_91
+  - first:
+      213: -3150787118057915628
+    second: SMALL 2000 2000 GOLD_92
+  - first:
+      213: -5101618760106633056
+    second: SMALL 2000 2000 GOLD_93
+  - first:
+      213: 2516181426190394142
+    second: SMALL 2000 2000 GOLD_94
+  - first:
+      213: 5047976085839216479
+    second: SMALL 2000 2000 GOLD_95
+  - first:
+      213: -6667036193073492637
+    second: SMALL 2000 2000 GOLD_96
+  - first:
+      213: 7009105733094440346
+    second: SMALL 2000 2000 GOLD_97
+  - first:
+      213: -8564317316227519609
+    second: SMALL 2000 2000 GOLD_98
+  - first:
+      213: -7433467243463460884
+    second: SMALL 2000 2000 GOLD_99
+  - first:
+      213: 3821246307039418246
+    second: SMALL 2000 2000 GOLD_100
+  - first:
+      213: -2733552995264335298
+    second: SMALL 2000 2000 GOLD_101
+  - first:
+      213: 1286780448368090048
+    second: SMALL 2000 2000 GOLD_102
+  - first:
+      213: -6676406070475149021
+    second: SMALL 2000 2000 GOLD_103
+  - first:
+      213: 7427454945447372804
+    second: SMALL 2000 2000 GOLD_104
+  - first:
+      213: 8266125387433916789
+    second: SMALL 2000 2000 GOLD_105
+  - first:
+      213: -3566631591119430106
+    second: SMALL 2000 2000 GOLD_106
+  - first:
+      213: -9208123016283172703
+    second: SMALL 2000 2000 GOLD_107
+  - first:
+      213: -4216023318232343619
+    second: SMALL 2000 2000 GOLD_108
+  - first:
+      213: -3744112112313383337
+    second: SMALL 2000 2000 GOLD_109
+  - first:
+      213: 2402396903276025661
+    second: SMALL 2000 2000 GOLD_110
+  - first:
+      213: -8938394274137054655
+    second: SMALL 2000 2000 GOLD_111
+  - first:
+      213: -3431529276614477760
+    second: SMALL 2000 2000 GOLD_112
+  - first:
+      213: 8360169878725259279
+    second: SMALL 2000 2000 GOLD_113
+  - first:
+      213: -2464144754036162025
+    second: SMALL 2000 2000 GOLD_114
+  - first:
+      213: -6689335567828013829
+    second: SMALL 2000 2000 GOLD_115
+  - first:
+      213: 1106579331308802558
+    second: SMALL 2000 2000 GOLD_116
+  - first:
+      213: -4474208832629477156
+    second: SMALL 2000 2000 GOLD_117
+  - first:
+      213: 3442866347848121020
+    second: SMALL 2000 2000 GOLD_118
+  - first:
+      213: -1258099971668132741
+    second: SMALL 2000 2000 GOLD_119
+  - first:
+      213: 3311950270781940768
+    second: SMALL 2000 2000 GOLD_120
+  - first:
+      213: 4588493003678460441
+    second: SMALL 2000 2000 GOLD_121
+  - first:
+      213: 4234572438207339454
+    second: SMALL 2000 2000 GOLD_122
+  - first:
+      213: -662593541586559298
+    second: SMALL 2000 2000 GOLD_123
+  - first:
+      213: -1440197784355581243
+    second: SMALL 2000 2000 GOLD_124
+  - first:
+      213: -585363128681776863
+    second: SMALL 2000 2000 GOLD_125
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1167
+        width: 1167
+        height: 779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83914582c50f3390800000000000000
+      internalID: -7836538493583912049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_1
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1863
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a4b1314857f05a0800000000000000
+      internalID: -6552889722684093927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_2
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1255
+        width: 138
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924a714b5d687ad60800000000000000
+      internalID: 7901432323652428841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_3
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1905
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a552405c63083d30800000000000000
+      internalID: 4411279598747276709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_4
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1912
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1494dac11a184b80800000000000000
+      internalID: -8410443640394705891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_5
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1911
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488d8a019a78b31a0800000000000000
+      internalID: -6828715249778501500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_6
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1229
+        width: 88
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83806044961a26e10800000000000000
+      internalID: 2189489842340366392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_7
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1924
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f608c2ac06bf2b0800000000000000
+      internalID: -5549735694357729514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_8
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1236
+        width: 353
+        height: 709
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33084089f1a001860800000000000000
+      internalID: 7498504510382571571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_9
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1892
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09bae4b8d9500f30800000000000000
+      internalID: 4539727211672549643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_10
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 1808
+        width: 57
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b51eae1ded9b190800000000000000
+      internalID: -7946075074348360939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_11
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1897
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fe6c2c7ae6646d0800000000000000
+      internalID: -3006594034416816364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_12
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1830
+        width: 8
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3c3561f3df25210800000000000000
+      internalID: 1320396088172332017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_13
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1878
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf1931a8e1a2b160800000000000000
+      internalID: 7039867188042866631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_14
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1870
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a720702fb77bbf0800000000000000
+      internalID: -308641770021684734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_15
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1881
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badb1c15a11024630800000000000000
+      internalID: 3909688639063440811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_16
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1884
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c088379b2750f20800000000000000
+      internalID: 3388240435498978429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_17
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1860
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9052ff4629bf5520800000000000000
+      internalID: 2693074676392022171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_18
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1873
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0069bd0d579ae530800000000000000
+      internalID: 3885084054478479374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_19
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1871
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2437367ef065cb0800000000000000
+      internalID: -4875692060101623064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_20
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1860
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c10bdecc8978ca0800000000000000
+      internalID: -6014670771401515978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_21
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1855
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd92c6a54859e0b0800000000000000
+      internalID: -5698926797286892076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_22
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1860
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6f202fc3415cd10800000000000000
+      internalID: 2145143049502783162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_23
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1844
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d23599384b67a0c0800000000000000
+      internalID: -4564561739368811822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_24
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1847
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acffd4d8c10ab35a0800000000000000
+      internalID: -6540457989335285814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_25
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1851
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea62290b05b83e70800000000000000
+      internalID: 9095218506477234927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_26
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1793
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbffb59277b6a8c0800000000000000
+      internalID: -3988298717223453738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_27
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 1741
+        width: 13
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1d35944e4ed8590800000000000000
+      internalID: -7670222921208180252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_28
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1833
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f7446f5cd98fb50800000000000000
+      internalID: 6627220325241487110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_29
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1781
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d7df48822ee4030800000000000000
+      internalID: 3480968225661746510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_30
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1789
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c125036bf75d0c0800000000000000
+      internalID: -4551591427916555166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_31
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 1574
+        width: 45
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc5a808cf3d71f50800000000000000
+      internalID: 6852178439509269759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_32
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1780
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1aecf0801a23740800000000000000
+      internalID: 5130339981525426679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_33
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1773
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c6582c5ed83cac0800000000000000
+      internalID: -3836066439638979503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_34
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1765
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cb8ed52d4c2a000800000000000000
+      internalID: 45815354024836131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_35
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1767
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50379b1b415e07110800000000000000
+      internalID: 1256756173080195845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_36
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1757
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e621e30252ea9ee50800000000000000
+      internalID: 6839188983616770670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_37
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1748
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c3e9541bc54ca40800000000000000
+      internalID: 5387532970688920584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_38
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1765
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d717fee776b98350800000000000000
+      internalID: 6019543003183912919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_39
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1754
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98ffdb9c30b77bb0800000000000000
+      internalID: -4938284692028786531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_40
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1702
+        width: 7
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432956c4f4d361cf0800000000000000
+      internalID: -281970515870641612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_41
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1743
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb954f2a075dbb4a0800000000000000
+      internalID: -6576428151097501249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_42
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1739
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cf28d14620ba660800000000000000
+      internalID: 7398009441901280348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_43
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1719
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fd5827502b3d040800000000000000
+      internalID: 4671272974979293015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_44
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1718
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f27fb887d65feef0800000000000000
+      internalID: -76747184929803530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_45
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1701
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc83c11f682ce6e10800000000000000
+      internalID: 2192903953402575052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_46
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1704
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a3c030c636fe330800000000000000
+      internalID: 3742319130926922249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_47
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1220
+        width: 64
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499b8a96979c749c0800000000000000
+      internalID: -3942961425438688876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_48
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1680
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050cd9e2a57e3a850800000000000000
+      internalID: 6387203071056658512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_49
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1657
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec32e1e0e5862960800000000000000
+      internalID: 7576890624006307040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_50
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1675
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbd6d3f88b57fae0800000000000000
+      internalID: -1515642105822258211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_51
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1657
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411475f1d40a41850800000000000000
+      internalID: 6346874027970609428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_52
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1680
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4181df08ff960d70800000000000000
+      internalID: 9009063992367350095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_53
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1649
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52d610a715e74160800000000000000
+      internalID: 7009823234658325085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_54
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1654
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080ad23cd80e12980800000000000000
+      internalID: -8565318116812414848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_55
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1641
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829296ba316c04c90800000000000000
+      internalID: -7187527217500837592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_56
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1677
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6566b5f7328a0880800000000000000
+      internalID: -8643953357927062165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_57
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1661
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179be536175488320800000000000000
+      internalID: 2560372741460900209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_58
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1636
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc8b73bf89fd1b30800000000000000
+      internalID: 4259835218149215419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_59
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1577
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de85a43f1d922c590800000000000000
+      internalID: -7655510434869782291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_60
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1624
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b7ff43ce7202fb0800000000000000
+      internalID: -4674692517755651294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_61
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1601
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cd63ecc7f04c6d0800000000000000
+      internalID: -2971232825447621509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_62
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1601
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c791c6d6a5075b30800000000000000
+      internalID: 4275892585337296832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_63
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1572
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4bd1061ee775440800000000000000
+      internalID: 4924544223998227636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_64
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1546
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052be688e10fb1930800000000000000
+      internalID: 4115146698461721168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_65
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1575
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3c3e99ec1c10760800000000000000
+      internalID: 7422426753972552700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_66
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1559
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da52595c51126420800000000000000
+      internalID: 2621677021416282839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_67
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1546
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b153b676ad772a6a0800000000000000
+      internalID: -6439452737264732901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_68
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1307
+        width: 59
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151902fb22ff7b280800000000000000
+      internalID: -9027466403340316335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_69
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1533
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c5974bf24567bd0800000000000000
+      internalID: -2632824368283427782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_70
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1520
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4189a4f64a1d9ea0800000000000000
+      internalID: -5864502247711735474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_71
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1500
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e610280b3992305c0800000000000000
+      internalID: -4250507909009374866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_72
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1477
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd12c88073461c650800000000000000
+      internalID: 6251387945296339423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_73
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1466
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da7298599233f6a0800000000000000
+      internalID: -6416729409875445033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_74
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1477
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4063ef9b57e371d40800000000000000
+      internalID: 5554977340737336836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_75
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1487
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650c40516a782d2c0800000000000000
+      internalID: -4408311937855340458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_76
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1464
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04d67daef7794200800000000000000
+      internalID: 164794797091378189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_77
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1452
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6744c044d2e709a10800000000000000
+      internalID: 1914168574512743542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_78
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1456
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1454be1208f486df0800000000000000
+      internalID: -186811972792400575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_79
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1443
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437cdc85fcc048810800000000000000
+      internalID: 1766551038523721524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_80
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1443
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907f46a977da0f400800000000000000
+      internalID: 355975099765290761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_81
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1430
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5310e9f0993025830800000000000000
+      internalID: 4058310170141131061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_82
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1395
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a78e161e6b0b790800000000000000
+      internalID: -7516306698954835419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_83
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1345
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cabf606b0fb6c2d0800000000000000
+      internalID: -3258707224772494647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_84
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1356
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad8f8562a244c540800000000000000
+      internalID: 5027216349308358050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_85
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1348
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb182d5478855ac80800000000000000
+      internalID: -8312140199227129412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_86
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1327
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc1e917578861910800000000000000
+      internalID: 1807782338434571461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_87
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1279
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54b56cd9232a8070800000000000000
+      internalID: 8109332741732283484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_88
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1229
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca08eb611cdfb89b0800000000000000
+      internalID: -5076685149178003284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297
+        width: 1965
+        height: 926
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f3e412a133ddae0800000000000000
+      internalID: -1523004911660417198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_90
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1216
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477f1e8a5ee64a180800000000000000
+      internalID: -9105030613976352908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_91
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1216
+        width: 46
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efecc68629f4fb90800000000000000
+      internalID: -7208863159647670303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_92
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1216
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bf7494fc72644d0800000000000000
+      internalID: -3150787118057915628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_93
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1216
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8106864c86339b0800000000000000
+      internalID: -5101618760106633056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_94
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 764
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13a3820da54be220800000000000000
+      internalID: 2516181426190394142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_95
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 524
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ffc1731830e0640800000000000000
+      internalID: 5047976085839216479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_96
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 521
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d8e27e7ede973a0800000000000000
+      internalID: -6667036193073492637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_97
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 517
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d7f364788554160800000000000000
+      internalID: 7009105733094440346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_98
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 495
+        width: 115
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b288ec6ce652980800000000000000
+      internalID: -8564317316227519609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_99
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 481
+        width: 141
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7bbdf1de407d890800000000000000
+      internalID: -7433467243463460884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_100
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 521
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6879b5a354bc70530800000000000000
+      internalID: 3821246307039418246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_101
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 515
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e327096a808701ad0800000000000000
+      internalID: -2733552995264335298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_102
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 508
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbd5e800009bd110800000000000000
+      internalID: 1286780448368090048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_103
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 508
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32131115d04a853a0800000000000000
+      internalID: -6676406070475149021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_104
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 456
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408eb98abee931760800000000000000
+      internalID: 7427454945447372804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_105
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 455
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57936da7e3d27b270800000000000000
+      internalID: 8266125387433916789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_106
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 439
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ed3a6f677c08ec0800000000000000
+      internalID: -3566631591119430106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_107
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 442
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0d75647ec263080800000000000000
+      internalID: -9208123016283172703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_108
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 400
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb5ff7212dad75c0800000000000000
+      internalID: -4216023318232343619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_109
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 350
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756c25afedd3a0cc0800000000000000
+      internalID: -3744112112313383337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_110
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 360
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37144d4147075120800000000000000
+      internalID: 2402396903276025661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_111
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 353
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142ecabe3c174f380800000000000000
+      internalID: -8938394274137054655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_112
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 349
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0487a0fcd42c060d0800000000000000
+      internalID: -3431529276614477760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_113
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 353
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00f65be53a450470800000000000000
+      internalID: 8360169878725259279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_114
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 352
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712488cd6699dcdd0800000000000000
+      internalID: -2464144754036162025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_115
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 336
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfca9302eb4ba23a0800000000000000
+      internalID: -6689335567828013829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_116
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 336
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef15376f90c5b5f00800000000000000
+      internalID: 1106579331308802558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_117
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 338
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd07438a5ca68e1c0800000000000000
+      internalID: -4474208832629477156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_118
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 323
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba32a8c3b487cf20800000000000000
+      internalID: 3442866347848121020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_119
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 328
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cbac0ddb45a8ee0800000000000000
+      internalID: -1258099971668132741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_120
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 326
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02467bb493966fd20800000000000000
+      internalID: 3311950270781940768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_121
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 310
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91aae92731a9daf30800000000000000
+      internalID: 4588493003678460441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_122
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 315
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb1203623934ca30800000000000000
+      internalID: 4234572438207339454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_123
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 313
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebed34b3faefdc6f0800000000000000
+      internalID: -662593541586559298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_124
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 297
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c25e21eeb3630ce0800000000000000
+      internalID: -1440197784355581243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SMALL 2000 2000 GOLD_125
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 300
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129bf4af55f50e7f0800000000000000
+      internalID: -585363128681776863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SMALL 2000 2000 GOLD_0: -7836538493583912049
+      SMALL 2000 2000 GOLD_1: -6552889722684093927
+      SMALL 2000 2000 GOLD_10: -7946075074348360939
+      SMALL 2000 2000 GOLD_100: 3821246307039418246
+      SMALL 2000 2000 GOLD_101: -2733552995264335298
+      SMALL 2000 2000 GOLD_102: 1286780448368090048
+      SMALL 2000 2000 GOLD_103: -6676406070475149021
+      SMALL 2000 2000 GOLD_104: 7427454945447372804
+      SMALL 2000 2000 GOLD_105: 8266125387433916789
+      SMALL 2000 2000 GOLD_106: -3566631591119430106
+      SMALL 2000 2000 GOLD_107: -9208123016283172703
+      SMALL 2000 2000 GOLD_108: -4216023318232343619
+      SMALL 2000 2000 GOLD_109: -3744112112313383337
+      SMALL 2000 2000 GOLD_11: -3006594034416816364
+      SMALL 2000 2000 GOLD_110: 2402396903276025661
+      SMALL 2000 2000 GOLD_111: -8938394274137054655
+      SMALL 2000 2000 GOLD_112: -3431529276614477760
+      SMALL 2000 2000 GOLD_113: 8360169878725259279
+      SMALL 2000 2000 GOLD_114: -2464144754036162025
+      SMALL 2000 2000 GOLD_115: -6689335567828013829
+      SMALL 2000 2000 GOLD_116: 1106579331308802558
+      SMALL 2000 2000 GOLD_117: -4474208832629477156
+      SMALL 2000 2000 GOLD_118: 3442866347848121020
+      SMALL 2000 2000 GOLD_119: -1258099971668132741
+      SMALL 2000 2000 GOLD_12: 1320396088172332017
+      SMALL 2000 2000 GOLD_120: 3311950270781940768
+      SMALL 2000 2000 GOLD_121: 4588493003678460441
+      SMALL 2000 2000 GOLD_122: 4234572438207339454
+      SMALL 2000 2000 GOLD_123: -662593541586559298
+      SMALL 2000 2000 GOLD_124: -1440197784355581243
+      SMALL 2000 2000 GOLD_125: -585363128681776863
+      SMALL 2000 2000 GOLD_13: 7039867188042866631
+      SMALL 2000 2000 GOLD_14: -308641770021684734
+      SMALL 2000 2000 GOLD_15: 3909688639063440811
+      SMALL 2000 2000 GOLD_16: 3388240435498978429
+      SMALL 2000 2000 GOLD_17: 2693074676392022171
+      SMALL 2000 2000 GOLD_18: 3885084054478479374
+      SMALL 2000 2000 GOLD_19: -4875692060101623064
+      SMALL 2000 2000 GOLD_2: 7901432323652428841
+      SMALL 2000 2000 GOLD_20: -6014670771401515978
+      SMALL 2000 2000 GOLD_21: -5698926797286892076
+      SMALL 2000 2000 GOLD_22: 2145143049502783162
+      SMALL 2000 2000 GOLD_23: -4564561739368811822
+      SMALL 2000 2000 GOLD_24: -6540457989335285814
+      SMALL 2000 2000 GOLD_25: 9095218506477234927
+      SMALL 2000 2000 GOLD_26: -3988298717223453738
+      SMALL 2000 2000 GOLD_27: -7670222921208180252
+      SMALL 2000 2000 GOLD_28: 6627220325241487110
+      SMALL 2000 2000 GOLD_29: 3480968225661746510
+      SMALL 2000 2000 GOLD_3: 4411279598747276709
+      SMALL 2000 2000 GOLD_30: -4551591427916555166
+      SMALL 2000 2000 GOLD_31: 6852178439509269759
+      SMALL 2000 2000 GOLD_32: 5130339981525426679
+      SMALL 2000 2000 GOLD_33: -3836066439638979503
+      SMALL 2000 2000 GOLD_34: 45815354024836131
+      SMALL 2000 2000 GOLD_35: 1256756173080195845
+      SMALL 2000 2000 GOLD_36: 6839188983616770670
+      SMALL 2000 2000 GOLD_37: 5387532970688920584
+      SMALL 2000 2000 GOLD_38: 6019543003183912919
+      SMALL 2000 2000 GOLD_39: -4938284692028786531
+      SMALL 2000 2000 GOLD_4: -8410443640394705891
+      SMALL 2000 2000 GOLD_40: -281970515870641612
+      SMALL 2000 2000 GOLD_41: -6576428151097501249
+      SMALL 2000 2000 GOLD_42: 7398009441901280348
+      SMALL 2000 2000 GOLD_43: 4671272974979293015
+      SMALL 2000 2000 GOLD_44: -76747184929803530
+      SMALL 2000 2000 GOLD_45: 2192903953402575052
+      SMALL 2000 2000 GOLD_46: 3742319130926922249
+      SMALL 2000 2000 GOLD_47: -3942961425438688876
+      SMALL 2000 2000 GOLD_48: 6387203071056658512
+      SMALL 2000 2000 GOLD_49: 7576890624006307040
+      SMALL 2000 2000 GOLD_5: -6828715249778501500
+      SMALL 2000 2000 GOLD_50: -1515642105822258211
+      SMALL 2000 2000 GOLD_51: 6346874027970609428
+      SMALL 2000 2000 GOLD_52: 9009063992367350095
+      SMALL 2000 2000 GOLD_53: 7009823234658325085
+      SMALL 2000 2000 GOLD_54: -8565318116812414848
+      SMALL 2000 2000 GOLD_55: -7187527217500837592
+      SMALL 2000 2000 GOLD_56: -8643953357927062165
+      SMALL 2000 2000 GOLD_57: 2560372741460900209
+      SMALL 2000 2000 GOLD_58: 4259835218149215419
+      SMALL 2000 2000 GOLD_59: -7655510434869782291
+      SMALL 2000 2000 GOLD_6: 2189489842340366392
+      SMALL 2000 2000 GOLD_60: -4674692517755651294
+      SMALL 2000 2000 GOLD_61: -2971232825447621509
+      SMALL 2000 2000 GOLD_62: 4275892585337296832
+      SMALL 2000 2000 GOLD_63: 4924544223998227636
+      SMALL 2000 2000 GOLD_64: 4115146698461721168
+      SMALL 2000 2000 GOLD_65: 7422426753972552700
+      SMALL 2000 2000 GOLD_66: 2621677021416282839
+      SMALL 2000 2000 GOLD_67: -6439452737264732901
+      SMALL 2000 2000 GOLD_68: -9027466403340316335
+      SMALL 2000 2000 GOLD_69: -2632824368283427782
+      SMALL 2000 2000 GOLD_7: -5549735694357729514
+      SMALL 2000 2000 GOLD_70: -5864502247711735474
+      SMALL 2000 2000 GOLD_71: -4250507909009374866
+      SMALL 2000 2000 GOLD_72: 6251387945296339423
+      SMALL 2000 2000 GOLD_73: -6416729409875445033
+      SMALL 2000 2000 GOLD_74: 5554977340737336836
+      SMALL 2000 2000 GOLD_75: -4408311937855340458
+      SMALL 2000 2000 GOLD_76: 164794797091378189
+      SMALL 2000 2000 GOLD_77: 1914168574512743542
+      SMALL 2000 2000 GOLD_78: -186811972792400575
+      SMALL 2000 2000 GOLD_79: 1766551038523721524
+      SMALL 2000 2000 GOLD_8: 7498504510382571571
+      SMALL 2000 2000 GOLD_80: 355975099765290761
+      SMALL 2000 2000 GOLD_81: 4058310170141131061
+      SMALL 2000 2000 GOLD_82: -7516306698954835419
+      SMALL 2000 2000 GOLD_83: -3258707224772494647
+      SMALL 2000 2000 GOLD_84: 5027216349308358050
+      SMALL 2000 2000 GOLD_85: -8312140199227129412
+      SMALL 2000 2000 GOLD_86: 1807782338434571461
+      SMALL 2000 2000 GOLD_87: 8109332741732283484
+      SMALL 2000 2000 GOLD_88: -5076685149178003284
+      SMALL 2000 2000 GOLD_89: -1523004911660417198
+      SMALL 2000 2000 GOLD_9: 4539727211672549643
+      SMALL 2000 2000 GOLD_90: -9105030613976352908
+      SMALL 2000 2000 GOLD_91: -7208863159647670303
+      SMALL 2000 2000 GOLD_92: -3150787118057915628
+      SMALL 2000 2000 GOLD_93: -5101618760106633056
+      SMALL 2000 2000 GOLD_94: 2516181426190394142
+      SMALL 2000 2000 GOLD_95: 5047976085839216479
+      SMALL 2000 2000 GOLD_96: -6667036193073492637
+      SMALL 2000 2000 GOLD_97: 7009105733094440346
+      SMALL 2000 2000 GOLD_98: -8564317316227519609
+      SMALL 2000 2000 GOLD_99: -7433467243463460884
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
