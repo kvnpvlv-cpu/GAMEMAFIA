@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 7aeaaf51ab6b60a4c9a87a11c9ecc4bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7412675179711403876
+    second: HERO RAAM_0
+  - first:
+      213: 928348906144681238
+    second: HERO RAAM_1
+  - first:
+      213: 4445413248907544741
+    second: HERO RAAM_2
+  - first:
+      213: -6884612301541889072
+    second: HERO RAAM_3
+  - first:
+      213: 8960070610982449901
+    second: HERO RAAM_4
+  - first:
+      213: 1336013844256124735
+    second: HERO RAAM_5
+  - first:
+      213: -4925144793098534325
+    second: HERO RAAM_6
+  - first:
+      213: 1938039999209104168
+    second: HERO RAAM_7
+  - first:
+      213: 8320131147614853302
+    second: HERO RAAM_8
+  - first:
+      213: -1497314973462057171
+    second: HERO RAAM_9
+  - first:
+      213: 7140267939316228341
+    second: HERO RAAM_10
+  - first:
+      213: -5710560084652188153
+    second: HERO RAAM_11
+  - first:
+      213: 6651950354768595461
+    second: HERO RAAM_12
+  - first:
+      213: 2413963425297738270
+    second: HERO RAAM_13
+  - first:
+      213: 3154612798863454945
+    second: HERO RAAM_14
+  - first:
+      213: 5480017731043240065
+    second: HERO RAAM_15
+  - first:
+      213: -2010071642274221758
+    second: HERO RAAM_16
+  - first:
+      213: 2298318827520447053
+    second: HERO RAAM_17
+  - first:
+      213: -5757970299005337400
+    second: HERO RAAM_18
+  - first:
+      213: 7018947069551443402
+    second: HERO RAAM_19
+  - first:
+      213: 1222303351137513960
+    second: HERO RAAM_20
+  - first:
+      213: -2120303628190324828
+    second: HERO RAAM_21
+  - first:
+      213: 234910980215728286
+    second: HERO RAAM_22
+  - first:
+      213: -4512314945415326631
+    second: HERO RAAM_23
+  - first:
+      213: 5489551667422686773
+    second: HERO RAAM_24
+  - first:
+      213: -6557236170697842833
+    second: HERO RAAM_25
+  - first:
+      213: 5549266351472133276
+    second: HERO RAAM_26
+  - first:
+      213: 7843092428966824860
+    second: HERO RAAM_27
+  - first:
+      213: -5716001756852129374
+    second: HERO RAAM_28
+  - first:
+      213: 8661880767400494173
+    second: HERO RAAM_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HERO RAAM_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 16
+        width: 1990
+        height: 1984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9862f5b233e02990800000000000000
+      internalID: -7412675179711403876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_1
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1928
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d406a596822ec00800000000000000
+      internalID: 928348906144681238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_2
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1930
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a803fc0cc741bd30800000000000000
+      internalID: 4445413248907544741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_3
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1930
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbaf468691f470a0800000000000000
+      internalID: -6884612301541889072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_4
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1930
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2b60a8fb0985c70800000000000000
+      internalID: 8960070610982449901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_5
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1930
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fe3e943897a8210800000000000000
+      internalID: 1336013844256124735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_6
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1930
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b424ffbb7ee56abb0800000000000000
+      internalID: -4925144793098534325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_7
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1930
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8236b517c1d45ea10800000000000000
+      internalID: 1938039999209104168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_8
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1930
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b81f32623b077370800000000000000
+      internalID: 8320131147614853302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_9
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1930
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fabe9f6f7783be0800000000000000
+      internalID: -1497314973462057171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_10
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1930
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0ed0c2cd3571360800000000000000
+      internalID: 7140267939316228341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_11
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1930
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e18cddbd300c0b0800000000000000
+      internalID: -5710560084652188153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_12
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1930
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a0487aa99705c50800000000000000
+      internalID: 6651950354768595461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_13
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1930
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a28a112fe108120800000000000000
+      internalID: 2413963425297738270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_14
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1930
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2382070af67cb20800000000000000
+      internalID: 3154612798863454945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_15
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1930
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188acad871fec0c40800000000000000
+      internalID: 5480017731043240065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_16
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1930
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241b82dbd7aca14e0800000000000000
+      internalID: -2010071642274221758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_17
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1930
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42d2feebc445ef10800000000000000
+      internalID: 2298318827520447053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_18
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1930
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0898425849710b0800000000000000
+      internalID: -5757970299005337400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1930
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdf1e9fb2f486160800000000000000
+      internalID: 7018947069551443402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_20
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1930
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1325cfb6e76f010800000000000000
+      internalID: 1222303351137513960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_21
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1930
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a76eb1851b2392e0800000000000000
+      internalID: -2120303628190324828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_22
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1930
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98e899ba42924300800000000000000
+      internalID: 234910980215728286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_23
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1930
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95455d3e6790161c0800000000000000
+      internalID: -4512314945415326631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_24
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1930
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ee1e8182ece2c40800000000000000
+      internalID: 5489551667422686773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_25
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1930
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f5639c1740005a0800000000000000
+      internalID: -6557236170697842833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_26
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1930
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94468b6854f20d40800000000000000
+      internalID: 5549266351472133276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_27
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1930
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b8f19720348dc60800000000000000
+      internalID: 7843092428966824860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_28
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1925
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1f153dfaeaca0b0800000000000000
+      internalID: -5716001756852129374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO RAAM_29
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 1929
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54c1b35aae253870800000000000000
+      internalID: 8661880767400494173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HERO RAAM_0: -7412675179711403876
+      HERO RAAM_1: 928348906144681238
+      HERO RAAM_10: 7140267939316228341
+      HERO RAAM_11: -5710560084652188153
+      HERO RAAM_12: 6651950354768595461
+      HERO RAAM_13: 2413963425297738270
+      HERO RAAM_14: 3154612798863454945
+      HERO RAAM_15: 5480017731043240065
+      HERO RAAM_16: -2010071642274221758
+      HERO RAAM_17: 2298318827520447053
+      HERO RAAM_18: -5757970299005337400
+      HERO RAAM_19: 7018947069551443402
+      HERO RAAM_2: 4445413248907544741
+      HERO RAAM_20: 1222303351137513960
+      HERO RAAM_21: -2120303628190324828
+      HERO RAAM_22: 234910980215728286
+      HERO RAAM_23: -4512314945415326631
+      HERO RAAM_24: 5489551667422686773
+      HERO RAAM_25: -6557236170697842833
+      HERO RAAM_26: 5549266351472133276
+      HERO RAAM_27: 7843092428966824860
+      HERO RAAM_28: -5716001756852129374
+      HERO RAAM_29: 8661880767400494173
+      HERO RAAM_3: -6884612301541889072
+      HERO RAAM_4: 8960070610982449901
+      HERO RAAM_5: 1336013844256124735
+      HERO RAAM_6: -4925144793098534325
+      HERO RAAM_7: 1938039999209104168
+      HERO RAAM_8: 8320131147614853302
+      HERO RAAM_9: -1497314973462057171
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

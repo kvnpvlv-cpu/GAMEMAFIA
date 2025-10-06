@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 19ed46974a7be1d4cba708b03b786033
+guid: 51206d4f815c4f6418d9e92bd9e296a3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6684913871898171035
-    second: Hero table 2_0
+      213: -2836792946369671867
+    second: Grenades W_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -97,20 +97,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: iOS
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -126,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Hero table 2_0
+      name: Grenades W_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 4
-        width: 1024
-        height: 670
+        y: 0
+        width: 1967
+        height: 361
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b9652909fb595cc50800000000000000
-      internalID: 6684913871898171035
+      spriteID: 54d4d4268dfa1a8d0800000000000000
+      internalID: -2836792946369671867
       vertices: []
       indices: 
       edges: []
@@ -161,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Hero table 2_0: 6684913871898171035
+      Grenades W_0: -2836792946369671867
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
