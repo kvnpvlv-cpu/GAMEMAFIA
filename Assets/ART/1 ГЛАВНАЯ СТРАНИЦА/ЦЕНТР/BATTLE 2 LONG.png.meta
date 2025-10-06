@@ -5,9 +5,6 @@ TextureImporter:
   - first:
       213: 5905638682602084659
     second: BATTLE 2 LONG_0
-  - first:
-      213: -4414462923853494344
-    second: BATTLE 2 LONG_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +97,20 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: WebGL
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -119,10 +129,10 @@ TextureImporter:
       name: BATTLE 2 LONG_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 1343
-        width: 6
-        height: 17
+        x: 0
+        y: 0
+        width: 1011
+        height: 342
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -133,28 +143,6 @@ TextureImporter:
       bones: []
       spriteID: 3399d48a71b05f150800000000000000
       internalID: 5905638682602084659
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BATTLE 2 LONG_1
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 493
-        width: 1976
-        height: 847
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8b7849d0c5dacb2c0800000000000000
-      internalID: -4414462923853494344
       vertices: []
       indices: 
       edges: []
@@ -174,7 +162,6 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       BATTLE 2 LONG_0: 5905638682602084659
-      BATTLE 2 LONG_1: -4414462923853494344
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -14,18 +14,6 @@ TextureImporter:
   - first:
       213: 1718800365774174348
     second: INVITE_3
-  - first:
-      213: 71844965380362922
-    second: INVITE_4
-  - first:
-      213: -5069574599394965665
-    second: INVITE_5
-  - first:
-      213: -1374967377808457041
-    second: INVITE_6
-  - first:
-      213: 4073967521009984240
-    second: INVITE_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -118,7 +106,20 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: WebGL
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -138,9 +139,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 168
-        width: 1024
-        height: 685
+        y: 0
+        width: 1967
+        height: 539
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,10 +160,10 @@ TextureImporter:
       name: INVITE_1
       rect:
         serializedVersion: 2
-        x: 763
-        y: 697
-        width: 6
-        height: 6
+        x: 0
+        y: 345
+        width: 9
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,10 +182,10 @@ TextureImporter:
       name: INVITE_2
       rect:
         serializedVersion: 2
-        x: 82
-        y: 526
-        width: 6
-        height: 18
+        x: 0
+        y: 312
+        width: 9
+        height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,10 +204,10 @@ TextureImporter:
       name: INVITE_3
       rect:
         serializedVersion: 2
-        x: 82
-        y: 502
-        width: 6
-        height: 21
+        x: 1
+        y: 290
+        width: 8
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -217,94 +218,6 @@ TextureImporter:
       bones: []
       spriteID: c88f7c973d76ad710800000000000000
       internalID: 1718800365774174348
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: INVITE_4
-      rect:
-        serializedVersion: 2
-        x: 680
-        y: 334
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aa295688d9e3ff000800000000000000
-      internalID: 71844965380362922
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: INVITE_5
-      rect:
-        serializedVersion: 2
-        x: 722
-        y: 329
-        width: 7
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f5748b8f2c045a9b0800000000000000
-      internalID: -5069574599394965665
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: INVITE_6
-      rect:
-        serializedVersion: 2
-        x: 763
-        y: 328
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fa20afb64722bece0800000000000000
-      internalID: -1374967377808457041
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: INVITE_7
-      rect:
-        serializedVersion: 2
-        x: 722
-        y: 301
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0f2674420e3a98830800000000000000
-      internalID: 4073967521009984240
       vertices: []
       indices: 
       edges: []
@@ -327,10 +240,6 @@ TextureImporter:
       INVITE_1: -776819630888388775
       INVITE_2: 2139943113373869621
       INVITE_3: 1718800365774174348
-      INVITE_4: 71844965380362922
-      INVITE_5: -5069574599394965665
-      INVITE_6: -1374967377808457041
-      INVITE_7: 4073967521009984240
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -5,24 +5,6 @@ TextureImporter:
   - first:
       213: 1724410787147610905
     second: mission B LONG_0
-  - first:
-      213: 912055790323147733
-    second: mission B LONG_1
-  - first:
-      213: -8716934834756248801
-    second: mission B LONG_2
-  - first:
-      213: -458163275361686258
-    second: mission B LONG_3
-  - first:
-      213: 5054020123089860489
-    second: mission B LONG_4
-  - first:
-      213: -1292352852730636693
-    second: mission B LONG_5
-  - first:
-      213: -8495902085329730868
-    second: mission B LONG_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -115,7 +97,20 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: WebGL
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -134,10 +129,10 @@ TextureImporter:
       name: mission B LONG_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 444
-        width: 1976
-        height: 960
+        x: 0
+        y: 4
+        width: 1011
+        height: 357
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -148,138 +143,6 @@ TextureImporter:
       bones: []
       spriteID: 91bf8ce79765ee710800000000000000
       internalID: 1724410787147610905
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mission B LONG_1
-      rect:
-        serializedVersion: 2
-        x: 371
-        y: 493
-        width: 13
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5d3ac85b8e548ac00800000000000000
-      internalID: 912055790323147733
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mission B LONG_2
-      rect:
-        serializedVersion: 2
-        x: 397
-        y: 514
-        width: 22
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f1b102cb3f9370780800000000000000
-      internalID: -8716934834756248801
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mission B LONG_3
-      rect:
-        serializedVersion: 2
-        x: 438
-        y: 549
-        width: 12
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e0defe2bde644a9f0800000000000000
-      internalID: -458163275361686258
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mission B LONG_4
-      rect:
-        serializedVersion: 2
-        x: 445
-        y: 520
-        width: 12
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 987727c468c732640800000000000000
-      internalID: 5054020123089860489
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mission B LONG_5
-      rect:
-        serializedVersion: 2
-        x: 510
-        y: 573
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b6617887de3a01ee0800000000000000
-      internalID: -1292352852730636693
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mission B LONG_6
-      rect:
-        serializedVersion: 2
-        x: 529
-        y: 572
-        width: 14
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cc2cb6d011e781a80800000000000000
-      internalID: -8495902085329730868
       vertices: []
       indices: 
       edges: []
@@ -299,12 +162,6 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       mission B LONG_0: 1724410787147610905
-      mission B LONG_1: 912055790323147733
-      mission B LONG_2: -8716934834756248801
-      mission B LONG_3: -458163275361686258
-      mission B LONG_4: 5054020123089860489
-      mission B LONG_5: -1292352852730636693
-      mission B LONG_6: -8495902085329730868
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

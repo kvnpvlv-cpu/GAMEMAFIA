@@ -17,18 +17,6 @@ TextureImporter:
   - first:
       213: -9151963915989881906
     second: GEMS_4
-  - first:
-      213: -3166990965996911781
-    second: GEMS_5
-  - first:
-      213: -8407975415160499737
-    second: GEMS_6
-  - first:
-      213: -4237093620885248198
-    second: GEMS_7
-  - first:
-      213: -1335754494455066458
-    second: GEMS_8
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -121,7 +109,20 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
-    buildTarget: WebGL
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -141,9 +142,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 665
-        width: 35
-        height: 167
+        y: 0
+        width: 1532
+        height: 649
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,10 +163,10 @@ TextureImporter:
       name: GEMS_1
       rect:
         serializedVersion: 2
-        x: 46
-        y: 47
-        width: 1488
-        height: 785
+        x: 9
+        y: 623
+        width: 24
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,10 +185,10 @@ TextureImporter:
       name: GEMS_2
       rect:
         serializedVersion: 2
-        x: 1094
-        y: 824
-        width: 27
-        height: 8
+        x: 506
+        y: 622
+        width: 6
+        height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,10 +207,10 @@ TextureImporter:
       name: GEMS_3
       rect:
         serializedVersion: 2
-        x: 506
-        y: 782
-        width: 6
-        height: 7
+        x: 1095
+        y: 615
+        width: 7
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -228,74 +229,8 @@ TextureImporter:
       name: GEMS_4
       rect:
         serializedVersion: 2
-        x: 1095
-        y: 775
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ecbea3ebe41bdf080800000000000000
-      internalID: -9151963915989881906
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GEMS_5
-      rect:
-        serializedVersion: 2
-        x: 3
-        y: 47
-        width: 35
-        height: 635
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b5302e0fe769c04d0800000000000000
-      internalID: -3166990965996911781
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GEMS_6
-      rect:
-        serializedVersion: 2
-        x: 510
-        y: 73
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7e1142348eed05b80800000000000000
-      internalID: -8407975415160499737
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GEMS_7
-      rect:
-        serializedVersion: 2
-        x: 1153
-        y: 150
+        x: 27
+        y: 515
         width: 6
         height: 6
       alignment: 0
@@ -306,30 +241,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a37af070dc1d235c0800000000000000
-      internalID: -4237093620885248198
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GEMS_8
-      rect:
-        serializedVersion: 2
-        x: 1153
-        y: 115
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6a0dfda4d52767de0800000000000000
-      internalID: -1335754494455066458
+      spriteID: ecbea3ebe41bdf080800000000000000
+      internalID: -9151963915989881906
       vertices: []
       indices: 
       edges: []
@@ -353,10 +266,6 @@ TextureImporter:
       GEMS_2: -1926138747377616143
       GEMS_3: -900101346665503597
       GEMS_4: -9151963915989881906
-      GEMS_5: -3166990965996911781
-      GEMS_6: -8407975415160499737
-      GEMS_7: -4237093620885248198
-      GEMS_8: -1335754494455066458
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

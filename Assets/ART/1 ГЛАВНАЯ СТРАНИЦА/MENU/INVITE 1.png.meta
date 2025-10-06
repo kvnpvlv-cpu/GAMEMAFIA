@@ -1,0 +1,3185 @@
+fileFormatVersion: 2
+guid: c3d02b6936d53d741a2467560616f52e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4728359264114964751
+    second: INVITE 1_0
+  - first:
+      213: 7386095993812784964
+    second: INVITE 1_1
+  - first:
+      213: 3442017529003881657
+    second: INVITE 1_2
+  - first:
+      213: 2709366354264267762
+    second: INVITE 1_3
+  - first:
+      213: 8974883386180504415
+    second: INVITE 1_4
+  - first:
+      213: 4948889688784599143
+    second: INVITE 1_5
+  - first:
+      213: 5289131068388609156
+    second: INVITE 1_6
+  - first:
+      213: -4341283561918439116
+    second: INVITE 1_7
+  - first:
+      213: -4125637287322937313
+    second: INVITE 1_8
+  - first:
+      213: 4195928816047383446
+    second: INVITE 1_9
+  - first:
+      213: 8597509055082251233
+    second: INVITE 1_10
+  - first:
+      213: -5296097715260412119
+    second: INVITE 1_11
+  - first:
+      213: 8308410810229827052
+    second: INVITE 1_12
+  - first:
+      213: -2154537627057636894
+    second: INVITE 1_13
+  - first:
+      213: -5114704803644071432
+    second: INVITE 1_14
+  - first:
+      213: -1144997001350033420
+    second: INVITE 1_15
+  - first:
+      213: 5662510188262331897
+    second: INVITE 1_16
+  - first:
+      213: -3565463112029625115
+    second: INVITE 1_17
+  - first:
+      213: 7866882855104175921
+    second: INVITE 1_18
+  - first:
+      213: 1204859743873599317
+    second: INVITE 1_19
+  - first:
+      213: 8365486901775176557
+    second: INVITE 1_20
+  - first:
+      213: 4512783429288299050
+    second: INVITE 1_21
+  - first:
+      213: 3551549197068812679
+    second: INVITE 1_22
+  - first:
+      213: 735091812300658605
+    second: INVITE 1_23
+  - first:
+      213: -4038464818687927000
+    second: INVITE 1_24
+  - first:
+      213: 4815654395105179416
+    second: INVITE 1_25
+  - first:
+      213: -2451392844621739767
+    second: INVITE 1_26
+  - first:
+      213: -8710093935449400596
+    second: INVITE 1_27
+  - first:
+      213: -5172726344491295810
+    second: INVITE 1_28
+  - first:
+      213: -6990461441732665311
+    second: INVITE 1_29
+  - first:
+      213: -7332576854603530178
+    second: INVITE 1_30
+  - first:
+      213: 2169377126800354450
+    second: INVITE 1_31
+  - first:
+      213: -3951920428733934622
+    second: INVITE 1_32
+  - first:
+      213: 1897035781623124402
+    second: INVITE 1_33
+  - first:
+      213: -3026614541755006958
+    second: INVITE 1_34
+  - first:
+      213: -3232084109191161662
+    second: INVITE 1_35
+  - first:
+      213: 6642274677100898128
+    second: INVITE 1_36
+  - first:
+      213: -2588448514567424944
+    second: INVITE 1_37
+  - first:
+      213: 181502127649336772
+    second: INVITE 1_38
+  - first:
+      213: -8566423519995908939
+    second: INVITE 1_39
+  - first:
+      213: -9145542593385642388
+    second: INVITE 1_40
+  - first:
+      213: -4595001142846500062
+    second: INVITE 1_41
+  - first:
+      213: 7562809988981096624
+    second: INVITE 1_42
+  - first:
+      213: 4536635240040832404
+    second: INVITE 1_43
+  - first:
+      213: 339078883557620739
+    second: INVITE 1_44
+  - first:
+      213: 8614023625189237087
+    second: INVITE 1_45
+  - first:
+      213: 6832999922412422517
+    second: INVITE 1_46
+  - first:
+      213: -1799149987325109675
+    second: INVITE 1_47
+  - first:
+      213: -3398969419824235987
+    second: INVITE 1_48
+  - first:
+      213: -8733233135288936553
+    second: INVITE 1_49
+  - first:
+      213: -6771519633687359848
+    second: INVITE 1_50
+  - first:
+      213: 8662213361675299122
+    second: INVITE 1_51
+  - first:
+      213: -2723693496508869942
+    second: INVITE 1_52
+  - first:
+      213: -7409167031826267696
+    second: INVITE 1_53
+  - first:
+      213: -768652216045141447
+    second: INVITE 1_54
+  - first:
+      213: -6852654450868312145
+    second: INVITE 1_55
+  - first:
+      213: 4755390521922719646
+    second: INVITE 1_56
+  - first:
+      213: -3931237793343875785
+    second: INVITE 1_57
+  - first:
+      213: -5240008942892387621
+    second: INVITE 1_58
+  - first:
+      213: -2784190535070436824
+    second: INVITE 1_59
+  - first:
+      213: -6179859501777673089
+    second: INVITE 1_60
+  - first:
+      213: 4836619725883316429
+    second: INVITE 1_61
+  - first:
+      213: -4146634863934459347
+    second: INVITE 1_62
+  - first:
+      213: -5683671321647343044
+    second: INVITE 1_63
+  - first:
+      213: -4092936552890601328
+    second: INVITE 1_64
+  - first:
+      213: -2678403243452819429
+    second: INVITE 1_65
+  - first:
+      213: 2658595999020529380
+    second: INVITE 1_66
+  - first:
+      213: 3058924452674790555
+    second: INVITE 1_67
+  - first:
+      213: -5322999967596783293
+    second: INVITE 1_68
+  - first:
+      213: 4323502506390107618
+    second: INVITE 1_69
+  - first:
+      213: -3146466816386934726
+    second: INVITE 1_70
+  - first:
+      213: 6572830762543437842
+    second: INVITE 1_71
+  - first:
+      213: -2796893649700659961
+    second: INVITE 1_72
+  - first:
+      213: 7515598937234846647
+    second: INVITE 1_73
+  - first:
+      213: 8915151503553443491
+    second: INVITE 1_74
+  - first:
+      213: 9126227222779557963
+    second: INVITE 1_75
+  - first:
+      213: -9119048466114570752
+    second: INVITE 1_76
+  - first:
+      213: -2615740550774220791
+    second: INVITE 1_77
+  - first:
+      213: 3157579884625751102
+    second: INVITE 1_78
+  - first:
+      213: -2839773652199812765
+    second: INVITE 1_79
+  - first:
+      213: 3181409494927628733
+    second: INVITE 1_80
+  - first:
+      213: -4447030720010611241
+    second: INVITE 1_81
+  - first:
+      213: 1528391619063549158
+    second: INVITE 1_82
+  - first:
+      213: 5125804263518464082
+    second: INVITE 1_83
+  - first:
+      213: -1015166395469654522
+    second: INVITE 1_84
+  - first:
+      213: 448620197896236111
+    second: INVITE 1_85
+  - first:
+      213: -8287736435377845733
+    second: INVITE 1_86
+  - first:
+      213: 5764651547489599093
+    second: INVITE 1_87
+  - first:
+      213: -6228922527457451531
+    second: INVITE 1_88
+  - first:
+      213: 5106039972095878226
+    second: INVITE 1_89
+  - first:
+      213: -1031282718405458784
+    second: INVITE 1_90
+  - first:
+      213: -1772119841464232187
+    second: INVITE 1_91
+  - first:
+      213: -9015257121954000904
+    second: INVITE 1_92
+  - first:
+      213: 2363894531541904037
+    second: INVITE 1_93
+  - first:
+      213: 2397128212818927996
+    second: INVITE 1_94
+  - first:
+      213: 4005350824519848814
+    second: INVITE 1_95
+  - first:
+      213: -2146490481613572330
+    second: INVITE 1_96
+  - first:
+      213: 180884704517914790
+    second: INVITE 1_97
+  - first:
+      213: 5796541828549336663
+    second: INVITE 1_98
+  - first:
+      213: -7105314291968418979
+    second: INVITE 1_99
+  - first:
+      213: -8925606084419882039
+    second: INVITE 1_100
+  - first:
+      213: 5318878197564191533
+    second: INVITE 1_101
+  - first:
+      213: -2988492920046169846
+    second: INVITE 1_102
+  - first:
+      213: 6192088191473936444
+    second: INVITE 1_103
+  - first:
+      213: 5398905812202943334
+    second: INVITE 1_104
+  - first:
+      213: 3142501262386939337
+    second: INVITE 1_105
+  - first:
+      213: -2843287598671528883
+    second: INVITE 1_106
+  - first:
+      213: 3832171156721581118
+    second: INVITE 1_107
+  - first:
+      213: 5040056347081607104
+    second: INVITE 1_108
+  - first:
+      213: -1897979873050169934
+    second: INVITE 1_109
+  - first:
+      213: 1664946577318683961
+    second: INVITE 1_110
+  - first:
+      213: 5299612720686705578
+    second: INVITE 1_111
+  - first:
+      213: 5937826664026584174
+    second: INVITE 1_112
+  - first:
+      213: -6154838134788011627
+    second: INVITE 1_113
+  - first:
+      213: 6227983958648637569
+    second: INVITE 1_114
+  - first:
+      213: -7155655064749809893
+    second: INVITE 1_115
+  - first:
+      213: 5633255888413438447
+    second: INVITE 1_116
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: INVITE 1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 1993
+        height: 1342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09fff3e2b18e9140800000000000000
+      internalID: 4728359264114964751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1331
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44795245c2fa08660800000000000000
+      internalID: 7386095993812784964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1333
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4b1feb4b084cf20800000000000000
+      internalID: 3442017529003881657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1332
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb1158285a999520800000000000000
+      internalID: 2709366354264267762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_4
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1333
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b08d583e03d8c70800000000000000
+      internalID: 8974883386180504415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1333
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768799c93fcfda440800000000000000
+      internalID: 4948889688784599143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_6
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1333
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c09c50fa4c66940800000000000000
+      internalID: 5289131068388609156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_7
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1333
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431eb9ef999a0c3c0800000000000000
+      internalID: -4341283561918439116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1332
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f189209eebaceb6c0800000000000000
+      internalID: -4125637287322937313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_9
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1333
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6936457f60fea3a30800000000000000
+      internalID: 4195928816047383446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_10
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1332
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3c16d1fec705770800000000000000
+      internalID: 8597509055082251233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_11
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1333
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f252a103b7086b0800000000000000
+      internalID: -5296097715260412119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_12
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1332
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5a3cfac976d4370800000000000000
+      internalID: 8308410810229827052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_13
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1336
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e93404817b8912e0800000000000000
+      internalID: -2154537627057636894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_14
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1332
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1afc7741be409b0800000000000000
+      internalID: -5114704803644071432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_15
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1332
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffc4a13b472c10f0800000000000000
+      internalID: -1144997001350033420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_16
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1333
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f51864d307459e40800000000000000
+      internalID: 5662510188262331897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_17
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1333
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e427b3b03ee48ec0800000000000000
+      internalID: -3565463112029625115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_18
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1332
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f5814b648cc2d60800000000000000
+      internalID: 7866882855104175921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_19
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1333
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55701cdad8588b010800000000000000
+      internalID: 1204859743873599317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_20
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1333
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d631e71d30e281470800000000000000
+      internalID: 8365486901775176557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_21
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1332
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a8ff28e90a0ae30800000000000000
+      internalID: 4512783429288299050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_22
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1333
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7814c958d23a94130800000000000000
+      internalID: 3551549197068812679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_23
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1333
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da79a7dcb12933a00800000000000000
+      internalID: 735091812300658605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_24
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1333
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d9134e4ad74f7c0800000000000000
+      internalID: -4038464818687927000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_25
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1333
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817fa4d6824a4d240800000000000000
+      internalID: 4815654395105179416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_26
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1333
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90903632237eafdd0800000000000000
+      internalID: -2451392844621739767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_27
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1332
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea1149b6b78f1780800000000000000
+      internalID: -8710093935449400596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_28
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1332
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb9a44cbc8c638b0800000000000000
+      internalID: -5172726344491295810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_29
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1332
+        width: 60
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120a5751b54ecfe90800000000000000
+      internalID: -6990461441732665311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_30
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1333
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e300b1d43347d3a90800000000000000
+      internalID: -7332576854603530178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_31
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1333
+        width: 39
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ceac2c00d2b1e10800000000000000
+      internalID: 2169377126800354450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_32
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1332
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e354b8ee45f729c0800000000000000
+      internalID: -3951920428733934622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_33
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1332
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b11ad11eff935a10800000000000000
+      internalID: 1897035781623124402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_34
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1332
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21049a62c1e4ff5d0800000000000000
+      internalID: -3026614541755006958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_35
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1333
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8d97380a45523d0800000000000000
+      internalID: -3232084109191161662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_36
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1333
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057eb2560a91e2c50800000000000000
+      internalID: 6642274677100898128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_37
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1333
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05432d94acbf31cd0800000000000000
+      internalID: -2588448514567424944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_38
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1332
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd24843933d48200800000000000000
+      internalID: 181502127649336772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_39
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1332
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bca7170233fd1980800000000000000
+      internalID: -8566423519995908939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_40
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1332
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c664b0b6771841180800000000000000
+      internalID: -9145542593385642388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_41
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1332
+        width: 58
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223de125ec64b30c0800000000000000
+      internalID: -4595001142846500062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_42
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1333
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b08ef09d9f74f860800000000000000
+      internalID: 7562809988981096624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_43
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1332
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d1726f6bd55fe30800000000000000
+      internalID: 4536635240040832404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_44
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1333
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cb945b276a4b400800000000000000
+      internalID: 339078883557620739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_45
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1333
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f512a3a19d82b8770800000000000000
+      internalID: 8614023625189237087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_46
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1332
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5750aa50a31b3de50800000000000000
+      internalID: 6832999922412422517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_47
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 1332
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a96db6e922807e0800000000000000
+      internalID: -1799149987325109675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_48
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1332
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2af5f8325f64d0d0800000000000000
+      internalID: -3398969419824235987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_49
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1332
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7979e6eebb25dc680800000000000000
+      internalID: -8733233135288936553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_50
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1333
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e4b7c25cab602a0800000000000000
+      internalID: -6771519633687359848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_51
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 1332
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2396c47782d563870800000000000000
+      internalID: 8662213361675299122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_52
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1332
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac21c87123f733ad0800000000000000
+      internalID: -2723693496508869942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_53
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1332
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1c57a07d95d2990800000000000000
+      internalID: -7409167031826267696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_54
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1332
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93200dac1e23555f0800000000000000
+      internalID: -768652216045141447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_55
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 1333
+        width: 34
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7ae77751b76e0a0800000000000000
+      internalID: -6852654450868312145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_56
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1332
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f867b0c7a8ef140800000000000000
+      internalID: 4755390521922719646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_57
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 1333
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735d5283e007179c0800000000000000
+      internalID: -3931237793343875785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_58
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1333
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2770311afb747b0800000000000000
+      internalID: -5240008942892387621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_59
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1330
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8223f1aa5719c59d0800000000000000
+      internalID: -2784190535070436824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1076
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7428b2868abc3aa0800000000000000
+      internalID: -6179859501777673089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_61
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc81ce2e3002f1340800000000000000
+      internalID: 4836619725883316429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_62
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 8
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22bfe1af813476c0800000000000000
+      internalID: -4146634863934459347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_63
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a922ddb0b8f11b0800000000000000
+      internalID: -5683671321647343044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_64
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 8
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0907eb4f3e7f237c0800000000000000
+      internalID: -4092936552890601328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_65
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b189dbcd07664dad0800000000000000
+      internalID: -2678403243452819429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_66
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 8
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6b4eaa9fa35e420800000000000000
+      internalID: 2658595999020529380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_67
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94ef64359b737a20800000000000000
+      internalID: 3058924452674790555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_68
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 8
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3495aff5bb7e026b0800000000000000
+      internalID: -5322999967596783293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_69
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 8
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5b4e66f9a200c30800000000000000
+      internalID: 4323502506390107618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_70
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 8
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38d3b7e9118554d0800000000000000
+      internalID: -3146466816386934726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_71
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 8
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218592211c2673b50800000000000000
+      internalID: 6572830762543437842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_72
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ddb0f4b007f29d0800000000000000
+      internalID: -2796893649700659961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_73
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 8
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3bf200a65cc4860800000000000000
+      internalID: 7515598937234846647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_74
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 8
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6b718de0bf8bb70800000000000000
+      internalID: 8915151503553443491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_75
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 8
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4876496e4fd6ae70800000000000000
+      internalID: 9126227222779557963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_76
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 8
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0069baf1cb1a27180800000000000000
+      internalID: -9119048466114570752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_77
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908948ee3d503bbd0800000000000000
+      internalID: -2615740550774220791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_78
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 8
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c690dec2af1db20800000000000000
+      internalID: 3157579884625751102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_79
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361dd1ab8e81798d0800000000000000
+      internalID: -2839773652199812765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_80
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 8
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9573e6413a62c20800000000000000
+      internalID: 3181409494927628733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_81
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 8
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5948c1f19f842c0800000000000000
+      internalID: -4447030720010611241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_82
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec87fb6410f53510800000000000000
+      internalID: 1528391619063549158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_83
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 8
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258633be1d3822740800000000000000
+      internalID: 5125804263518464082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_84
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6061e1aba8769e1f0800000000000000
+      internalID: -1015166395469654522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_85
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 8
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cabae61b1d93600800000000000000
+      internalID: 448620197896236111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_86
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 6
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1acd315f9b0cfc80800000000000000
+      internalID: -8287736435377845733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_87
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ef50e3a08200050800000000000000
+      internalID: 5764651547489599093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_88
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f16879a6fb6e89a0800000000000000
+      internalID: -6228922527457451531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_89
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 8
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25468b93d4c4cd640800000000000000
+      internalID: 5106039972095878226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_90
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 8
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a48172e4d520b1f0800000000000000
+      internalID: -1031282718405458784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_91
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5075a1ea46a2867e0800000000000000
+      internalID: -1772119841464232187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_92
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff0f17996f53e280800000000000000
+      internalID: -9015257121954000904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_93
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 6
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa2b0f4d8d3ec020800000000000000
+      internalID: 2363894531541904037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_94
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71a326b86f444120800000000000000
+      internalID: 2397128212818927996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_95
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63d2588a5dd59730800000000000000
+      internalID: 4005350824519848814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_96
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 8
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6177aa197422632e0800000000000000
+      internalID: -2146490481613572330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_97
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 8
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0871e2ea1a28200800000000000000
+      internalID: 180884704517914790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_98
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 8
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e5068e414717050800000000000000
+      internalID: 5796541828549336663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_99
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 8
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b57b90c4ad46d90800000000000000
+      internalID: -7105314291968418979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_100
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3761d5e80e12480800000000000000
+      internalID: -8925606084419882039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_101
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 8
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2332614a8370d940800000000000000
+      internalID: 5318878197564191533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_102
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01d0eed58db686d0800000000000000
+      internalID: -2988492920046169846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_103
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 8
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38e1be2767bee550800000000000000
+      internalID: 6192088191473936444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_104
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 8
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663f5284b34ccea40800000000000000
+      internalID: 5398905812202943334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_105
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 8
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c54aca9f386c9b20800000000000000
+      internalID: 3142501262386939337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_106
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 8
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cf8ee4efc9a88d0800000000000000
+      internalID: -2843287598671528883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_107
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 8
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c33e20d5b9e2530800000000000000
+      internalID: 3832171156721581118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_108
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 8
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c780c75b80e1f540800000000000000
+      internalID: 5040056347081607104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_109
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bde0048c5509a5e0800000000000000
+      internalID: -1897979873050169934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_110
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 8
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935251f37141b1710800000000000000
+      internalID: 1664946577318683961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_111
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 8
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab2cafd0b10c8940800000000000000
+      internalID: 5299612720686705578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_112
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 8
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64b52714e5676250800000000000000
+      internalID: 5937826664026584174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_113
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 8
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599ceed735f959aa0800000000000000
+      internalID: -6154838134788011627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_114
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 8
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1884512c96e3e6650800000000000000
+      internalID: 6227983958648637569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_115
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 8
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fdc5281a102bc90800000000000000
+      internalID: -7155655064749809893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INVITE 1_116
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 8
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1b2cd52685d2e40800000000000000
+      internalID: 5633255888413438447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      INVITE 1_0: 4728359264114964751
+      INVITE 1_1: 7386095993812784964
+      INVITE 1_10: 8597509055082251233
+      INVITE 1_100: -8925606084419882039
+      INVITE 1_101: 5318878197564191533
+      INVITE 1_102: -2988492920046169846
+      INVITE 1_103: 6192088191473936444
+      INVITE 1_104: 5398905812202943334
+      INVITE 1_105: 3142501262386939337
+      INVITE 1_106: -2843287598671528883
+      INVITE 1_107: 3832171156721581118
+      INVITE 1_108: 5040056347081607104
+      INVITE 1_109: -1897979873050169934
+      INVITE 1_11: -5296097715260412119
+      INVITE 1_110: 1664946577318683961
+      INVITE 1_111: 5299612720686705578
+      INVITE 1_112: 5937826664026584174
+      INVITE 1_113: -6154838134788011627
+      INVITE 1_114: 6227983958648637569
+      INVITE 1_115: -7155655064749809893
+      INVITE 1_116: 5633255888413438447
+      INVITE 1_12: 8308410810229827052
+      INVITE 1_13: -2154537627057636894
+      INVITE 1_14: -5114704803644071432
+      INVITE 1_15: -1144997001350033420
+      INVITE 1_16: 5662510188262331897
+      INVITE 1_17: -3565463112029625115
+      INVITE 1_18: 7866882855104175921
+      INVITE 1_19: 1204859743873599317
+      INVITE 1_2: 3442017529003881657
+      INVITE 1_20: 8365486901775176557
+      INVITE 1_21: 4512783429288299050
+      INVITE 1_22: 3551549197068812679
+      INVITE 1_23: 735091812300658605
+      INVITE 1_24: -4038464818687927000
+      INVITE 1_25: 4815654395105179416
+      INVITE 1_26: -2451392844621739767
+      INVITE 1_27: -8710093935449400596
+      INVITE 1_28: -5172726344491295810
+      INVITE 1_29: -6990461441732665311
+      INVITE 1_3: 2709366354264267762
+      INVITE 1_30: -7332576854603530178
+      INVITE 1_31: 2169377126800354450
+      INVITE 1_32: -3951920428733934622
+      INVITE 1_33: 1897035781623124402
+      INVITE 1_34: -3026614541755006958
+      INVITE 1_35: -3232084109191161662
+      INVITE 1_36: 6642274677100898128
+      INVITE 1_37: -2588448514567424944
+      INVITE 1_38: 181502127649336772
+      INVITE 1_39: -8566423519995908939
+      INVITE 1_4: 8974883386180504415
+      INVITE 1_40: -9145542593385642388
+      INVITE 1_41: -4595001142846500062
+      INVITE 1_42: 7562809988981096624
+      INVITE 1_43: 4536635240040832404
+      INVITE 1_44: 339078883557620739
+      INVITE 1_45: 8614023625189237087
+      INVITE 1_46: 6832999922412422517
+      INVITE 1_47: -1799149987325109675
+      INVITE 1_48: -3398969419824235987
+      INVITE 1_49: -8733233135288936553
+      INVITE 1_5: 4948889688784599143
+      INVITE 1_50: -6771519633687359848
+      INVITE 1_51: 8662213361675299122
+      INVITE 1_52: -2723693496508869942
+      INVITE 1_53: -7409167031826267696
+      INVITE 1_54: -768652216045141447
+      INVITE 1_55: -6852654450868312145
+      INVITE 1_56: 4755390521922719646
+      INVITE 1_57: -3931237793343875785
+      INVITE 1_58: -5240008942892387621
+      INVITE 1_59: -2784190535070436824
+      INVITE 1_6: 5289131068388609156
+      INVITE 1_60: -6179859501777673089
+      INVITE 1_61: 4836619725883316429
+      INVITE 1_62: -4146634863934459347
+      INVITE 1_63: -5683671321647343044
+      INVITE 1_64: -4092936552890601328
+      INVITE 1_65: -2678403243452819429
+      INVITE 1_66: 2658595999020529380
+      INVITE 1_67: 3058924452674790555
+      INVITE 1_68: -5322999967596783293
+      INVITE 1_69: 4323502506390107618
+      INVITE 1_7: -4341283561918439116
+      INVITE 1_70: -3146466816386934726
+      INVITE 1_71: 6572830762543437842
+      INVITE 1_72: -2796893649700659961
+      INVITE 1_73: 7515598937234846647
+      INVITE 1_74: 8915151503553443491
+      INVITE 1_75: 9126227222779557963
+      INVITE 1_76: -9119048466114570752
+      INVITE 1_77: -2615740550774220791
+      INVITE 1_78: 3157579884625751102
+      INVITE 1_79: -2839773652199812765
+      INVITE 1_8: -4125637287322937313
+      INVITE 1_80: 3181409494927628733
+      INVITE 1_81: -4447030720010611241
+      INVITE 1_82: 1528391619063549158
+      INVITE 1_83: 5125804263518464082
+      INVITE 1_84: -1015166395469654522
+      INVITE 1_85: 448620197896236111
+      INVITE 1_86: -8287736435377845733
+      INVITE 1_87: 5764651547489599093
+      INVITE 1_88: -6228922527457451531
+      INVITE 1_89: 5106039972095878226
+      INVITE 1_9: 4195928816047383446
+      INVITE 1_90: -1031282718405458784
+      INVITE 1_91: -1772119841464232187
+      INVITE 1_92: -9015257121954000904
+      INVITE 1_93: 2363894531541904037
+      INVITE 1_94: 2397128212818927996
+      INVITE 1_95: 4005350824519848814
+      INVITE 1_96: -2146490481613572330
+      INVITE 1_97: 180884704517914790
+      INVITE 1_98: 5796541828549336663
+      INVITE 1_99: -7105314291968418979
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
