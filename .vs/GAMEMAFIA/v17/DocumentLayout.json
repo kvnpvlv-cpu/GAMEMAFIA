@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\home\\Documents\\GitHub\\GAMEMAFIA\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\home\\Documents\\GitHub\\GAMEMAFIA\\Assets\\SCRIPTS\\WindowAnimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SCRIPTS\\WindowAnimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\home\\Documents\\GitHub\\GAMEMAFIA\\Assets\\SCRIPTS\\breath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\SCRIPTS\\breath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WindowAnimator.cs",
+              "DocumentMoniker": "C:\\Users\\home\\Documents\\GitHub\\GAMEMAFIA\\Assets\\SCRIPTS\\WindowAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\SCRIPTS\\WindowAnimator.cs",
+              "ToolTip": "C:\\Users\\home\\Documents\\GitHub\\GAMEMAFIA\\Assets\\SCRIPTS\\WindowAnimator.cs",
+              "RelativeToolTip": "Assets\\SCRIPTS\\WindowAnimator.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAADwv2YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T14:33:03.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "breath.cs",
               "DocumentMoniker": "C:\\Users\\home\\Documents\\GitHub\\GAMEMAFIA\\Assets\\SCRIPTS\\breath.cs",
               "RelativeDocumentMoniker": "Assets\\SCRIPTS\\breath.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Musictoggle.cs",
               "DocumentMoniker": "C:\\Users\\home\\Documents\\GitHub\\GAMEMAFIA\\Assets\\SCRIPTS\\Musictoggle.cs",
               "RelativeDocumentMoniker": "Assets\\SCRIPTS\\Musictoggle.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "Assets\\SCRIPTS\\Musictoggle.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAADwvygAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T13:42:50.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-04T13:42:50.244Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SoundToggleUI.cs..cs",
               "DocumentMoniker": "C:\\Users\\home\\Documents\\GitHub\\GAMEMAFIA\\Assets\\SCRIPTS\\SoundToggleUI.cs..cs",
               "RelativeDocumentMoniker": "Assets\\SCRIPTS\\SoundToggleUI.cs..cs",
@@ -68,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "NewEmptyCSharpScript.cs",
               "DocumentMoniker": "C:\\Users\\home\\Documents\\GitHub\\GAMEMAFIA\\Assets\\SCRIPTS\\NewEmptyCSharpScript.cs",
               "RelativeDocumentMoniker": "Assets\\SCRIPTS\\NewEmptyCSharpScript.cs",
